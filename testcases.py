@@ -1,5 +1,10 @@
 '''
-This test-case is used for testing whether extracted quotes are from Mark Twain
+This file used for checking the Results obtained from quotes.py. This file has 3 test-cases
+- First TestCase(test_json_file_has_ten_elements): Checks for the number of quotes obtained in the JSON file
+- Second TestCase(test_author_name_is_mark_twain): Checks for the name of the Author is correct or not
+- Third TestCase(test_popular_quotes): Checks for the posts obtained are ordered based on Popularity
+
+Author: Bala Vineeth Netha Thatipamula
 '''
 import unittest
 import json

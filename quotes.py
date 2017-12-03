@@ -1,3 +1,9 @@
+'''
+- This file extracts the most popular quotes of Mark Twain from GoodReads(https://www.goodreads.com/)
+- Stores all the quotes in JSON file - quotes.json
+
+Author: Bala Vineeth Netha Thatipamula
+'''
 import scrapy
 from scrapy.http import FormRequest
 from unidecode import unidecode
