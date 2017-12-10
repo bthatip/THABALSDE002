@@ -19,4 +19,8 @@ In this project, I have collected Top 10 Popular Quotes of Mark Twain from www.g
 
 ## Results:
 - After running *python quotes.py*, we will get a JSON file with top 10 popular quotes from Mark Twain 
-- All the testcases are passed  
+- All the testcases are passed 
+
+## Miscellaneous: 
+- **Instead of Mark Twain, we can collect data of any author**
+- **Instead of collecting 10 Popular Quotes, we can collect any number of Quotes** 
